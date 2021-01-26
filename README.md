@@ -1,5 +1,3 @@
-#Example Repo
+#S Srikanth Test Automation repository 
 
-This is a sample repo, Hello Tester !!
-
-My new line is here.
+This repo contains all public projects.
